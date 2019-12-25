@@ -1,0 +1,93 @@
+{
+  "project_info": {
+    "project_number": "642949798185",
+    "firebase_url": "https://puzzlechat-b9b50.firebaseio.com",
+    "project_id": "puzzlechat-b9b50",
+    "storage_bucket": "puzzlechat-b9b50.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:642949798185:android:817aac47c52602ae7b7f38",
+        "android_client_info": {
+          "package_name": "com.aoaydesign.bitirmeprojesi.puzzlechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "642949798185-q45tlucb25vdbb461phap7ohujj6usqq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aoaydesign.bitirmeprojesi.puzzlechat",
+            "certificate_hash": "987cfbab4f567682ec85e6b788046d4448702a71"
+          }
+        },
+        {
+          "client_id": "642949798185-3qqo64ojnb1vbhade76m05nauuhsus34.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwbyVv-aOFKFmIROmXEKRGRFqwhZo2TEo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "642949798185-3qqo64ojnb1vbhade76m05nauuhsus34.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:642949798185:android:3cb3b858b9e7b558",
+        "android_client_info": {
+          "package_name": "com.example.aliosman.puzzlechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "642949798185-sd1ushph0a330p69aba8vg8gcdghjk9b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aliosman.puzzlechat",
+            "certificate_hash": "987cfbab4f567682ec85e6b788046d4448702a71"
+          }
+        },
+        {
+          "client_id": "642949798185-ntden73fuirekqeea7ar3eu94268rl5l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aliosman.puzzlechat",
+            "certificate_hash": "c945368c6a5adae9760a96a6b79b608925f95e07"
+          }
+        },
+        {
+          "client_id": "642949798185-3qqo64ojnb1vbhade76m05nauuhsus34.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwbyVv-aOFKFmIROmXEKRGRFqwhZo2TEo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "642949798185-3qqo64ojnb1vbhade76m05nauuhsus34.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
